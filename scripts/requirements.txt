@@ -1,0 +1,4 @@
+google-cloud-network-services==0.9.0
+google-cloud-network-security==0.13.0
+google-cloud-certificate-manager==1.13.0
+google-cloud-compute==1.47.0
