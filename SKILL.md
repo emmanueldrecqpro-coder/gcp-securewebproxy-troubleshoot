@@ -1,5 +1,5 @@
 ---
-name: securewebproxy-troubleshoot
+name: gcp-securewebproxy-troubleshoot
 description: Diagnose and troubleshoot Google Cloud Secure Web Proxy (SWP) issues. Use when users report connectivity problems to a external host, policy blocking, or certificate issues with SWP.
 ---
 
